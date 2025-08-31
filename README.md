@@ -1,5 +1,3 @@
-or simply download using the url below
-
 # Django Job Portal
 
 A web-based job portal built with Django, allowing employers to post jobs and applicants to apply.
@@ -80,4 +78,5 @@ This project is licensed under the MIT License.
 <div align="center">
     <h3>Thank You for using Django Job Portal!</h3>
 </div>
+
 
